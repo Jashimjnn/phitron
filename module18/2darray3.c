@@ -22,7 +22,7 @@ int main()
         {
             if(i==j)
             {
-                continue;;
+                continue;
             }
             if(a[i][j]!=0)
             {
